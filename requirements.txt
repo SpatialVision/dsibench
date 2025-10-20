@@ -1,0 +1,4 @@
+pandas
+huggingface_hub
+tqdm
+dashscope==1.24
