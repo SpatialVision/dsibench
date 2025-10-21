@@ -8,16 +8,17 @@
 *Equal Contribution †Corresponding author.
 
 
-<a href='https://arxiv.org/abs/2412.18605'><img src='https://img.shields.io/badge/arXiv-DSI Bench-red' alt='Paper PDF'></a>
-<a href='https://huggingface.co/datasets/Viglong/DSI-Bench'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
+<a href='https://arxiv.org/abs/2412.18605'><img src='https://img.shields.io/badge/arXiv-Paper PDF-red' alt='Paper PDF'></a>
+<a href='https://dsibench.github.io'><img src='https://img.shields.io/badge/Project_Page-DSI_Bench-green' alt='Project Page'></a>
+<a href='https://huggingface.co/datasets/Viglong/DSI-Bench'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue'></a>
 </div>
 
 
 ## Quick Start
 
-### 1. Install `huggingface_hub`
+### 1. Install dependency
 ```shell
-pip install huggingface_hub
+pip install -r requirements.txt
 ```
 
 ### 2. Download full dataset
@@ -44,7 +45,7 @@ VLM_MODEL = "qwen2.5-vl-32b-instruct"   # e.g., "qwen2.5-vl-72b-instruct"
 VIDEO_AUG = "std"                       # Video variant: 'std', 'hflip', etc.
 NUM_WORKERS = 2
 MAX_RETRIES = 10
-FPS = 6                                 # Frames per second for video input
+FPS = 5                                 # Frames per second for video input
 
 # Relative paths (relative to this script)
 METADATA_BASE_DIR = "/path/to/metadatas"# Contains {VIDEO_AUG}.csv

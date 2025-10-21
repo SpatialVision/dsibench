@@ -12,7 +12,7 @@ VLM_MODEL = "qwen2.5-vl-32b-instruct"   # e.g., "qwen2.5-vl-72b-instruct"
 VIDEO_AUG = "std"                       # Video variant: 'std', 'hflip', etc.
 NUM_WORKERS = 2
 MAX_RETRIES = 10
-FPS = 6                                 # Frames per second for video input
+FPS = 5                                 # Frames per second for video input
 
 # Relative paths (relative to this script)
 METADATA_BASE_DIR = "/path/to/metadatas"# Contains {VIDEO_AUG}.csv
