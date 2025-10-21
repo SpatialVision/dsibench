@@ -1,7 +1,7 @@
 <div align="center">
 <h1>DSI-Bench: A Benchmark for Dynamic Spatial Intelligence</h1>
 
-[**Ziang Zhang**](https://scholar.google.com/citations?hl=zh-CN&user=DptGMnYAAAAJ) <sup>1*</sup> · [**Zehan Wang**](https://scholar.google.com/citations?user=euXK0lkAAAAJ&hl=zh-CN) <sup>1*</sup> · Guanghao Zhang<sup>2*</sup> · Weilong Dai<sup>2</sup> · Yan Xia<sup>2</sup> · Ziang Yan<sup>1,3</sup> · Minjie Hong<sup>1</sup> · Zhou Zhao <sup>1,3†</sup>
+[**Ziang Zhang**](https://scholar.google.com/citations?user=DptGMnYAAAAJ) <sup>1*</sup> · [**Zehan Wang**](https://scholar.google.com/citations?user=euXK0lkAAAAJ&hl=zh-CN) <sup>1*</sup> · [**Guanghao Zhang**](https://scholar.google.com/citations?user=uR1mcnYAAAAJ)<sup>2*</sup> · [Weilong Dai](https://scholar.google.com/citations?user=uWpt2_wAAAAJ)<sup>2</sup> · [Yan Xia](https://scholar.google.com/citations?user=6kEbV3IAAAAJ)<sup>2</sup> · [Ziang Yan](https://scholar.google.com/citations?user=78lx13MAAAAJ)<sup>1,3</sup> · [Minjie Hong](https://scholar.google.com/citations?user=xNaUrS4AAAAJ)<sup>1</sup> · [Zhou Zhao](https://scholar.google.com/citations?user=IIoFY90AAAAJ) <sup>1,3†</sup>
 
 <sup>1</sup>Zhejiang University  <sup>2</sup>Alibaba Group  <sup>3</sup>Shanghai AI Lab
 
