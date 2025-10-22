@@ -8,7 +8,7 @@
 *Equal Contribution †Corresponding author.
 
 
-<a href='https://arxiv.org/abs/2412.18605'><img src='https://img.shields.io/badge/arXiv-Paper PDF-red' alt='Paper PDF'></a>
+<a href='https://arxiv.org/pdf/2510.18873'><img src='https://img.shields.io/badge/arXiv-Paper PDF-red' alt='Paper PDF'></a>
 <a href='https://dsibench.github.io'><img src='https://img.shields.io/badge/Project_Page-DSI_Bench-green' alt='Project Page'></a>
 <a href='https://huggingface.co/datasets/Viglong/DSI-Bench'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue'></a>
 </div>
@@ -354,5 +354,13 @@ if __name__ == "__main__":
 
 If you find this repository useful for your research, please use the following.
 ```
-
+@misc{zhang2025dsibenchbenchmarkdynamicspatial,
+      title={DSI-Bench: A Benchmark for Dynamic Spatial Intelligence}, 
+      author={Ziang Zhang and Zehan Wang and Guanghao Zhang and Weilong Dai and Yan Xia and Ziang Yan and Minjie Hong and Zhou Zhao},
+      year={2025},
+      eprint={2510.18873},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.18873}, 
+}
 ```
